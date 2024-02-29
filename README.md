@@ -24,8 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Profile Card](https://github.com/dayronfurcain/profile-card)
+- Live Site URL: [Profile Card](https://majestic-bavarois-6b0e70.netlify.app/)
 
 ## My process
 
